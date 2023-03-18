@@ -30,6 +30,18 @@
 		{
 			"Name": "GameplayBehaviors",
 			"Enabled": true
+		},
+		{
+			"Name": "VirtualHeightfieldMesh",
+			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
+		},
+		{
+			"Name": "AbilitySystemGameFeatureActions",
+			"Enabled": true
 		}
 	]
 }
